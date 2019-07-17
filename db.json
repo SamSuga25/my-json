@@ -1,9 +1,9 @@
 {
   "eo": [
     { "id": 1, "eos": "Mahen Group", 
-    "photo": /roundtable.png},
+    "photo": "https://github.com/SamSuga25/my-json/blob/master/roundtable.png"},
     { "id": 2, "eos": "EVA", 
-     "photo": /event-planning-png-8.png },
+     "photo": "https://github.com/SamSuga25/my-json/blob/master/event-planning-png-8.png" },
     
   ]
 }
